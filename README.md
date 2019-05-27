@@ -87,6 +87,9 @@ routing.optimize
 }
 ```
 
+## Notes
+1. Value 0 is your origin
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
