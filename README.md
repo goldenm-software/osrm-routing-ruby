@@ -1,4 +1,4 @@
-# osrm-routing
+# PROJECT DEPREACTED
 
 osrm-routing is a OSRM Project routing wrapper for Ruby language
 
